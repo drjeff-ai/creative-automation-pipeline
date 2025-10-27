@@ -1,0 +1,13 @@
+# Core dependencies
+openai>=1.0.0
+fal-client>=0.4.0
+Pillow>=10.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Progress bars and utilities
+tqdm>=4.65.0
+colorama>=0.4.6
+
+# Numerical processing for compliance checks
+numpy>=1.24.0

@@ -1,0 +1,26 @@
+{
+  "campaign_id": "spring_fitness_2025",
+  "campaign_name": "Spring Transformation Campaign",
+  "products": [
+    {
+      "id": "protein_powder_vanilla",
+      "name": "Premium Whey Protein - Vanilla",
+      "description": "25g protein, low sugar, smooth vanilla flavor, perfect post-workout nutrition"
+    },
+    {
+      "id": "resistance_bands_set",
+      "name": "Professional Resistance Bands Set",
+      "description": "5 resistance levels, portable home gym, perfect for strength training anywhere"
+    }
+  ],
+  "region": "north_america",
+  "target_audience": "millennials_fitness_enthusiasts",
+  "campaign_message": "Transform Your Spring Routine",
+  "brand_config": {
+    "logo_path": "input_assets/brand/brand_logo.png",
+    "primary_color": "#FF5733",
+    "secondary_color": "#3498DB",
+    "font_color": "#FFFFFF"
+  },
+  "aspect_ratios": ["1x1", "9x16", "16x9"]
+}
