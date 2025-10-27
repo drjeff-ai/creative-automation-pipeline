@@ -31,7 +31,7 @@ AI-powered creative asset generation for social media campaigns. Automate the en
 
 ### **1. Clone & Setup**
 ```bash
-git clone <repository-url>
+git clone https://github.com/drjeff-ai/creative-automation-pipeline
 cd creative-automation-pipeline
 pip install -r requirements.txt
 ```
